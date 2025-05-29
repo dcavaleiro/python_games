@@ -7,7 +7,7 @@ A collection of simple games built with Python. This project explores how games 
 ### 1. Turtle Race
 A fun race between turtles of different colors! The player bets on which turtle will win.
 
-![img.png](img.png)
+<img src="img.png" alt="Turtle Race" width="300"/>
 
 - **Technologies**: `turtle`, `random`
 - **How to Play**:
