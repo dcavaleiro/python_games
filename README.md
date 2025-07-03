@@ -18,7 +18,7 @@ A fun race between turtles of different colors! The player bets on which turtle 
   3. Watch the turtles race!
   4. Find out if you win based on your bet.
 
-### 2. Snake Game *(coming soon)*
+### 2. Snake Game
 A classic Snake game where you control the snake to collect food and avoid hitting the walls or yourself.
 
 - **Technologies**: `turtle`
