@@ -21,8 +21,13 @@ A fun race between turtles of different colors! The player bets on which turtle 
 ### 2. Snake Game *(coming soon)*
 A classic Snake game where you control the snake to collect food and avoid hitting the walls or yourself.
 
-- **Technologies**: `turtle` (or `arcade`)
-- **Status**: Under development
+- **Technologies**: `turtle`
+## 🎮 Game Features
+- Move the snake using arrow keys: **Up**, **Down**, **Left**, and **Right**
+- Eat food to grow the snake
+- Score increases with each food item eaten
+- Game ends when the snake hits the wall or itself
+- Score is displayed and game over message shown when game ends
 
 ### 3. Arcade Platformer *(planned)*
 A simple 2D platformer game using the `arcade` library.
