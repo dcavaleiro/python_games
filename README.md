@@ -29,17 +29,20 @@ A classic Snake game where you control the snake to collect food and avoid hitti
   - Game ends when the snake hits the wall or itself
   - Score is displayed and game over message shown when game ends
 
-### 3. Arcade Platformer *(planned)*
-A simple 2D platformer game using the `arcade` library.
+### 3. Pong Game
+A simple recreation of the classic **Pong** arcade game using Python's `turtle` module. Two players control paddles to keep the ball in play and score points!
 
-- **Technologies**: `arcade`
-- **Status**: Planned
+- **Technologies**: `turtle`
+- **Game Features**
+  - Two-player game:
+    - **Right Paddle**: Controlled with **Up** and **Down** arrow keys
+    - **Left Paddle**: Controlled with **W** and **S** keys
+  - Ball bounces off walls and paddles
+  - Scoreboard updates when a player scores
+  - Game ends when you close the window
 
 ---
 
 ## 🛠️ Requirements
 
-Make sure you have Python 3 installed. You can install the necessary libraries using:
-
-```bash
-pip install -r requirements.txt
+Make sure you have Python 3 installed.
