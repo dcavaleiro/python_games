@@ -53,7 +53,7 @@ A simple recreation of the classic **Pong** arcade game using Python's `turtle` 
 This is a simple interactive Python game that challenges users to name all 50 U.S. states. When a correct state is guessed, its name appears on the map. The game ends when all states are guessed or the user exits.
 
 <div style="text-align: center;">
-<img src=".\images\us_states_game.PNG" alt="US States Game" width="300"/>
+<img src=".\images\states_game.PNG" alt="US States Game" width="300"/>
 </div>
 
 - **Technologies**: `turtle`, `pandas`
