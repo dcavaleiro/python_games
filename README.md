@@ -21,6 +21,10 @@ A fun race between turtles of different colors! The player bets on which turtle 
 ### 2. Snake Game
 A classic Snake game where you control the snake to collect food and avoid hitting the walls or yourself.
 
+<div style="text-align: center;">
+<img src=".\images\snake_game.png" alt="Snake Game" width="300"/>
+</div>
+
 - **Technologies**: `turtle`
 - **Game Features:**
   -  Move the snake using arrow keys: **Up**, **Down**, **Left**, and **Right**
@@ -31,6 +35,10 @@ A classic Snake game where you control the snake to collect food and avoid hitti
 
 ### 3. Pong Game
 A simple recreation of the classic **Pong** arcade game using Python's `turtle` module. Two players control paddles to keep the ball in play and score points!
+
+<div style="text-align: center;">
+<img src=".\images\pong_game.png" alt="Pong Game" width="300"/>
+</div>
 
 - **Technologies**: `turtle`
 - **Game Features**
@@ -45,7 +53,7 @@ A simple recreation of the classic **Pong** arcade game using Python's `turtle` 
 This is a simple interactive Python game that challenges users to name all 50 U.S. states. When a correct state is guessed, its name appears on the map. The game ends when all states are guessed or the user exits.
 
 <div style="text-align: center;">
-<img src=".\images\us_states_game.jpg" alt="US States Game" width="300"/>
+<img src=".\images\us_states_game.png" alt="US States Game" width="300"/>
 </div>
 
 - **Technologies**: `turtle`, `pandas`
@@ -56,6 +64,20 @@ This is a simple interactive Python game that challenges users to name all 50 U.
     - The name appears on the correct location of the map.
     - The score increases.
   - Typing **Exit** ends the game early and creates a CSV file with the missing states.
+ 
+### 5. Turtle Crossing Game
+A simple arcade-style game where a turtle attempts to cross a road full of moving cars. As the player progresses, the game gets harder with faster cars and increasing levels.
+
+<div style="text-align: center;">
+<img src=".\images\turtle_crossing_game.png" alt="Turtle Crossing Game" width="300"/>
+</div>
+
+- **Technologies**: `turtle`, `time`
+- **Game Features:**
+  - Use the Up Arrow key to move the turtle forward.
+  - Avoid getting hit by cars.
+  - Reach the top to level up and increase difficulty.
+  - Game ends when a car hits the turtle.
 ---
 
 ## 🛠️ Requirements
