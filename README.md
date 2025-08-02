@@ -22,7 +22,7 @@ A fun race between turtles of different colors! The player bets on which turtle 
 A classic Snake game where you control the snake to collect food and avoid hitting the walls or yourself.
 
 <div style="text-align: center;">
-<img src=".\images\snake_game.png" alt="Snake Game" width="300"/>
+<img src=".\images\snake_game.PNG" alt="Snake Game" width="300"/>
 </div>
 
 - **Technologies**: `turtle`
@@ -37,7 +37,7 @@ A classic Snake game where you control the snake to collect food and avoid hitti
 A simple recreation of the classic **Pong** arcade game using Python's `turtle` module. Two players control paddles to keep the ball in play and score points!
 
 <div style="text-align: center;">
-<img src=".\images\pong_game.png" alt="Pong Game" width="300"/>
+<img src=".\images\pong_game.PNG" alt="Pong Game" width="300"/>
 </div>
 
 - **Technologies**: `turtle`
@@ -53,7 +53,7 @@ A simple recreation of the classic **Pong** arcade game using Python's `turtle` 
 This is a simple interactive Python game that challenges users to name all 50 U.S. states. When a correct state is guessed, its name appears on the map. The game ends when all states are guessed or the user exits.
 
 <div style="text-align: center;">
-<img src=".\images\us_states_game.png" alt="US States Game" width="300"/>
+<img src=".\images\us_states_game.PNG" alt="US States Game" width="300"/>
 </div>
 
 - **Technologies**: `turtle`, `pandas`
@@ -69,7 +69,7 @@ This is a simple interactive Python game that challenges users to name all 50 U.
 A simple arcade-style game where a turtle attempts to cross a road full of moving cars. As the player progresses, the game gets harder with faster cars and increasing levels.
 
 <div style="text-align: center;">
-<img src=".\images\turtle_crossing_game.png" alt="Turtle Crossing Game" width="300"/>
+<img src=".\images\turtle_crossing_game.PNG" alt="Turtle Crossing Game" width="300"/>
 </div>
 
 - **Technologies**: `turtle`, `time`
